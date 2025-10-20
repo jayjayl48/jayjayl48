@@ -1,4 +1,4 @@
-# About 
+# About me
 
 - 🔭 I’m currently working on a PC game written in Java.
 - 🌱 I’m currently learning C++ SFML and Java Spring Boot.
