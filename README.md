@@ -1,9 +1,4 @@
-# About Me
-
-
-**jayjayl48/jayjayl48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+# About 
 
 - 🔭 I’m currently working on a PC game written in Java.
 - 🌱 I’m currently learning C++ SFML and Java Spring Boot.
